@@ -273,7 +273,7 @@ class PolyGlot {
                 break;
             case "pf1":
             case "pf2e":
-                this.loadLanguages("golarion");
+                this.loadLanguages("rm");
                 break;
             case "ose":
                 this.loadLanguages("ose");

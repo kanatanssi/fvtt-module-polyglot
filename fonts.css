@@ -3,7 +3,20 @@
 /*                                           */
 /*  Every font represents an alphabet.       */
 /* ----------------------------------------- */
-
+/* RM specific below*/
+@font-face {
+    font-family: 'Elefari';
+    src: url('./fonts/Aceh_Darusalam.ttf');
+}
+@font-face {
+    font-family: 'Fey';
+    src: url('./fonts/EdhironAsdhurielV12-dxJE.ttf');
+}
+@font-face {
+    font-family: 'Helbi';
+    src: url('./fonts/Mexlar-2O3l.ttf');
+}
+/* RM specific above, original ones below*/
 @font-face {
     font-family: 'ArCiela';
     src: url('./fonts/ArCiela.ttf');
