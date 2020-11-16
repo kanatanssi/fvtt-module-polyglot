@@ -260,6 +260,7 @@ class PolyGlot {
             this.alphabets = settingInfo.alphabets;
             this.tongues = settingInfo.tongues;
             console.log(`Polyglot | Loaded ${setting}.json`);
+            console.log(this.tongues);
         } else {
             console.error(`Polyglot | Failed to fetch ${setting}.json: ${response.status}`);
             return;
@@ -552,6 +553,9 @@ class PolyGlot {
 }
 
 PolyGlot.FONTS = [
+    "Elefari",
+    "Fey",
+    "Helbi",
     "ArCiela",
     "Barazhad", 
     "Celestial",
