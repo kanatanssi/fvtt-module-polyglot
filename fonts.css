@@ -5,7 +5,15 @@
 /* ----------------------------------------- */
 /* RM specific below*/
 @font-face {
-    font-family: 'Elefari';
+    font-family: 'AuberdoricHigh';
+    src: url('./fonts/Elvish-6PPo.ttf');
+}
+@font-face {
+    font-family: 'ElefariHigh';
+    src: url('./fonts/ArCiela.ttf');
+}
+@font-face {
+    font-family: 'ElefariVulgar';
     src: url('./fonts/Aceh_Darusalam.ttf');
 }
 @font-face {
